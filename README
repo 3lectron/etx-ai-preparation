@@ -2,8 +2,8 @@ Complete the following items before class for the Labs:
 
 
 Option 1 (not recommended on Mac M-series):
-    Create a GitHub account (if you don’t already have one)
-    Download and build the container image from https://github.com/redhat-ai-services/etx-delivery-labs
+    1. Create a GitHub account (if you don’t already have one)
+    2. Download and build the container image from https://github.com/redhat-ai-services/etx-delivery-labs
 
 Option 2:
     1. Download and install Node & NPM
