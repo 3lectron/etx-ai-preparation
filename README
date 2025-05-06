@@ -1,0 +1,25 @@
+Complete the following items before class for the Labs:
+
+
+Option 1 (not recommended on Mac M-series):
+
+Create a GitHub account (if you don’t already have one)
+
+Download and build the container image from https://github.com/redhat-ai-services/etx-delivery-labs
+
+Option 2:
+
+Download and install Node & NPM
+
+Download and install Python 3.11
+
+Download and install Podman Desktop with AI Lab extension
+
+Verify you can run Docling with
+podman run -p 5001:5001 -e DOCLING_SERVE_ENABLE_UI=true quay.io/docling-project/docling-serve
+Download and install Ollama
+
+Pull Ollama Images using:
+
+ollama pull llama2
+ollama pull granite3.2:2b
